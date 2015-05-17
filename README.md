@@ -1,7 +1,9 @@
 cogeco
 ======
 
-Coelho e o seu gerenciador de conhecimento
+Coelho e o seu gerenciador de conhecimento.
+
+Projeto do coelhotopetudo para tentar armazenar e recuperar os dados que ele vai gerando/absorvendo com o passar do tempo.
 
 
 deve ter:
